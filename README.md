@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 Hi , I am Akshaj Agarwal,a student currently pursuing my B.tech in CSE(Artificial Intelligence and Machine learning) from ABES engineering college,India.
 
